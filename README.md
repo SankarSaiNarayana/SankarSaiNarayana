@@ -1,14 +1,15 @@
-<!-- HERO SECTION -->
-
-<h1 align="center">🚀 Sankar Sai Narayana</h1>
-<h3 align="center">AI & Cloud Engineer | LLM Systems | AWS | Kubernetes (CKA)</h3>
+<!-- OPTIONAL BANNER -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Cloud+Architect;Kubernetes+Specialist;LLM+Builder&center=true&width=500&height=45">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=180&section=header&text=Sankar%20Sai%20Narayana&fontSize=35&fontAlignY=35&desc=AI%20%7C%20Cloud%20%7C%20Kubernetes&descAlignY=55&descAlign=50"/>
 </p>
 
+---
+
+<h2 align="center">🚀 AI & Cloud Engineer | Kubernetes (CKA) | LLM Systems</h2>
+
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://www.linkedin.com/in/sankar-sai-narayana/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"/>
   </a>
   <a href="mailto:sankarsainarayana@gmail.com">
@@ -21,80 +22,93 @@
 
 ## 🧠 About Me
 
-<div align="center">
-
-💡 Building **real-world AI systems with LLMs & RAG**
-☁️ Designing scalable architectures on **AWS (EKS, IAM, EBS)**
-🐳 Certified **Kubernetes Administrator (CKA)**
-⚡ Focused on **performance, scalability & production systems**
-
-</div>
+* 🔥 Building **production-grade AI systems (LLMs, RAG, Agents)**
+* ☁️ Strong experience with **AWS (EKS, IAM, EC2, EBS)**
+* 🐳 Certified **Kubernetes Administrator (CKA)**
+* ⚡ Focused on **scalable architecture & DevOps**
+* 🎯 Passionate about solving **real-world problems using AI**
 
 ---
 
 ## ⚙️ Tech Stack
 
-<div align="center">
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,ts,aws,docker,kubernetes,fastapi,flask,git" />
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
+![SQL](https://img.shields.io/badge/SQL-orange)
 
-</div>
+### 🤖 AI / LLM
+
+![LangChain](https://img.shields.io/badge/LangChain-green)
+![LangGraph](https://img.shields.io/badge/LangGraph-purple)
+![RAG](https://img.shields.io/badge/RAG-Systems-blue)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow)
+
+### ⚙️ Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-teal)
+![Flask](https://img.shields.io/badge/Flask-black)
+
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?logo=githubactions)
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Featured Projects
 
 ### 🔹 AI Log Analyzer
 
-> LLM-powered log intelligence system with anomaly detection
-> **Stack:** FastAPI • LangChain • Prompt Engineering
+* Intelligent log analysis using LLMs
+* Detect anomalies & generate structured insights
+* **Stack:** FastAPI, LangChain, Prompt Engineering
 
 ---
 
-### 🔹 AWS EKS Production Deployment
+### 🔹 ToDo App on AWS EKS
 
-> Full Kubernetes deployment with TLS, Ingress, EBS
-> Real-world DevOps architecture
+* Full Kubernetes deployment with:
+
+  * Ingress + TLS
+  * Persistent storage (EBS)
+  * IAM-based security
+* Demonstrates real-world **cloud-native architecture**
 
 ---
 
 ### 🔹 RAG Knowledge Assistant
 
-> Semantic search system using vector databases
-> Context-aware AI chatbot
+* Semantic search over documents
+* Context-aware chatbot using vector databases
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SankarSaiNarayana&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SankarSaiNarayana&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 🏆 Achievements
 
-<div align="center">
-
-🥇 Certified Kubernetes Administrator (CKA)
-🚀 Built scalable AI + Cloud systems
-⚡ Strong expertise in EKS + LLM integration
-
-</div>
+* 🥇 Certified Kubernetes Administrator (CKA)
+* 🚀 Built scalable AI + Cloud applications
+* ⚡ Hands-on expertise in EKS + LLM systems
 
 ---
 
-## 📫 Connect
+## 📫 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"/>
-  </a>
-</p>
+* 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
+* 📧 Email: [sankarsainarayana@gmail.com](mailto:sankarsainarayana@gmail.com)
 
 ---
 
-<p align="center">✨ Designing intelligent systems at scale ✨</p>
+<p align="center">✨ Building intelligent systems at scale ✨</p>
