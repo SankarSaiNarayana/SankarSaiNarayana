@@ -106,7 +106,7 @@
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
+* 💼 LinkedIn:https://www.linkedin.com/in/sankar-sai-narayana/
 * 📧 Email: [sankarsainarayana@gmail.com](mailto:sankarsainarayana@gmail.com)
 
 ---
