@@ -69,16 +69,6 @@
 
 ---
 
-### 🔹 ToDo App on AWS EKS
-
-* Full Kubernetes deployment with:
-
-  * Ingress + TLS
-  * Persistent storage (EBS)
-  * IAM-based security
-* Demonstrates real-world **cloud-native architecture**
-
----
 
 ### 🔹 RAG Knowledge Assistant
 
