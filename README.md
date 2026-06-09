@@ -45,7 +45,7 @@ My work combines:
 I enjoy designing systems that are not only intelligent, but also **deployable, observable, scalable, and production ready**.
 
 ---
-# 💼 Professional Experience
+#  Professional Experience
 
 ## AI & Cloud Engineer Intern
 ### Yellow.ai
