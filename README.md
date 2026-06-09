@@ -36,8 +36,8 @@ I build **production-grade AI and cloud-native systems** focused on scalability,
 
 My work combines:
 
-- 🤖 **LLM Engineering**
-- ☁️ **Cloud Infrastructure**
+- 🤖 **AI Engineering**
+- ☁️ **Cloud Infrastructure(AWS)**
 - ⚙️ **Kubernetes & DevOps**
 - 🔍 **Retrieval-Augmented Generation (RAG)**
 - 🚀 **AI-powered automation systems**
@@ -107,9 +107,10 @@ I enjoy designing systems that are not only intelligent, but also **deployable, 
 
 # 🚀 Featured Projects
 
-## 🔹 AI Log Intelligence Platform
+## 🔹 KubeAtlas
 
-> AI-powered observability system that analyzes logs, detects anomalies, and generates actionable insights using LLMs.
+>Built an intelligent Kubernetes troubleshooting platform that collects real-time cluster context, analyzes workloads, events, and resource states, then uses LLMs to investigate failures and recommend remediation steps.
+>Designed to reduce manual debugging effort by transforming complex Kubernetes diagnostics into actionable insights through natural language interactions and automated root-cause analysis.
 
 ### Highlights
 - Intelligent root-cause analysis
@@ -118,7 +119,7 @@ I enjoy designing systems that are not only intelligent, but also **deployable, 
 - Real-time AI-assisted troubleshooting
 
 ### Stack
-`FastAPI` • `LangChain` • `LLMs` • `Prompt Engineering`
+`Kubernetes` • `Docker` • `Go` • `Prompt Engineering`
 
 ---
 
