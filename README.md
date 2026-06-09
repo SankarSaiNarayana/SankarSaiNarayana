@@ -45,6 +45,33 @@ My work combines:
 I enjoy designing systems that are not only intelligent, but also **deployable, observable, scalable, and production ready**.
 
 ---
+# 💼 Professional Experience
+
+## AI & Cloud Engineer Intern
+### Yellow.ai
+
+Designed and supported AI-powered customer engagement platforms
+serving enterprise-scale conversational workloads.
+
+### Key Contributions
+
+- Investigated production incidents using logs, metrics, and observability tools
+- Performed root-cause analysis for customer-facing AI platform issues
+- Worked on oncalls as SRE Shadow
+- Worked with Kubernetes workloads and cloud infrastructure
+- Supported deployment pipelines and operational automation
+- Collaborated with engineering teams to improve platform reliability
+- Contributed to issue remediation and operational excellence initiatives
+
+### Focus Areas
+
+`Kubernetes`
+`AWS`
+`OpenSearch`
+`Microservices`
+`AI Systems`
+`Observability (Grafana,Prometheus)`
+`Incident Response`
 
 # ⚡ Core Expertise
 
