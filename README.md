@@ -12,22 +12,29 @@
   <b>AI Systems • Kubernetes • Cloud Infrastructure • RAG • DevOps</b>
 </p>
 
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/sankar-sai-narayana/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://sankar-sankarsainarayana.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/sankar-sai-narayana/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="mailto:sankarsainarayana@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://github.com/SankarSaiNarayana">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/SankarSaiNarayana" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-  <img src="https://komarev.com/ghpvc/?username=SankarSaiNarayana&style=for-the-badge&color=0e75b6"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SankarSaiNarayana&style=for-the-badge&color=0A66C2" />
+</p>
 ---
 
 # 🧠 Who Am I?
