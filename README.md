@@ -1,60 +1,71 @@
 <!-- ============================ HERO ============================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:1E3A8A,50:2563EB,75:38BDF8,100:67E8F9&height=280&section=header&text=SANKAR%20SAI%20NARAYANA&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=AI%20INFRASTRUCTURE%20%E2%80%A2%20CLOUD%20NATIVE%20%E2%80%A2%20LLM%20%2B%20VOICE%20SYSTEMS&descSize=17&descAlignY=60&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,20:7F0000,45:B71C1C,70:E23636,100:FFC233&height=280&section=header&text=SANKAR%20SAI%20NARAYANA&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=SYSTEMS%20ONLINE%20%2F%2F%20AI%20INFRASTRUCTURE%20%2F%2F%20CLOUD%20NATIVE%20%2F%2F%20LLM%20%2B%20VOICE&descSize=16&descAlignY=60&animation=fadeIn"/>
+</p>
+
+<!-- ARC REACTOR (commit assets/arc-reactor.svg for this to render) -->
+<p align="center">
+  <img src="./assets/arc-reactor.svg" width="200" alt="Arc Reactor"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Engineering+intelligent+systems+at+scale;AI+%2B+Cloud+%2B+Kubernetes+%2B+Voice;Deployable.+Observable.+Production-ready."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2600&pause=900&color=38E1FF&center=true&vCenter=true&width=780&lines=Initializing+J.A.R.V.I.S.+...;ARC+REACTOR%3A+ONLINE;ALL+SYSTEMS+OPERATIONAL;WELCOME+BACK%2C+SANKAR."/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-E23636?style=for-the-badge&labelColor=0A0A0A"/>
+  <img src="https://img.shields.io/badge/POWER-100%25-FFC233?style=for-the-badge&labelColor=0A0A0A"/>
+  <img src="https://img.shields.io/badge/CORE-STABLE-38E1FF?style=for-the-badge&labelColor=0A0A0A"/>
 </p>
 
 <p align="center">
   <a href="https://sankar-sankarsainarayana.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8&labelColor=0F172A" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-0A0A0A?style=for-the-badge&logo=vercel&logoColor=FFC233&labelColor=0A0A0A" />
   </a>
   <a href="https://www.linkedin.com/in/sankar-sai-narayana/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=0F172A" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FFC233&labelColor=0A0A0A" />
   </a>
   <a href="mailto:sankarsainarayana@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8&labelColor=0F172A" />
+    <img src="https://img.shields.io/badge/EMAIL-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FFC233&labelColor=0A0A0A" />
   </a>
   <a href="https://github.com/SankarSaiNarayana" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=0F172A" />
+    <img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=for-the-badge&logo=github&logoColor=FFC233&labelColor=0A0A0A" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SankarSaiNarayana&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=SankarSaiNarayana&style=for-the-badge&color=E23636&label=REACTOR+SCANS" />
 </p>
 
 <!-- ============================ INTRO ============================ -->
 <br/>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:38BDF8&height=3&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E23636,100:FFC233&height=3&section=header"/>
 </p>
 
-<h3 align="center">I build production-grade AI and cloud-native systems.</h3>
+<h3 align="center">// SYSTEM PROFILE</h3>
 
 <p align="center">
-  My work sits where <b>intelligent models</b> meet <b>reliable infrastructure</b> &mdash; LLM agents, RAG,<br/>
-  real-time voice pipelines, and the Kubernetes + AWS foundations that keep them running at scale.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineering-1E3A8A?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Voice%20AI-2563EB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Cloud%20(AWS)-1D4ED8?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Kubernetes%20%26%20DevOps-0EA5E9?style=flat-square"/>
-  <img src="https://img.shields.io/badge/RAG-38BDF8?style=flat-square"/>
+  I engineer <b>production-grade AI and cloud-native systems</b> &mdash; where intelligent models<br/>
+  meet reliable infrastructure. LLM agents, RAG, real-time voice pipelines, and the<br/>
+  Kubernetes + AWS foundations that keep the suit powered and in the air.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:1E3A8A&height=3&section=header"/>
+  <img src="https://img.shields.io/badge/AI%20ENGINEERING-B71C1C?style=flat-square&labelColor=0A0A0A"/>
+  <img src="https://img.shields.io/badge/VOICE%20AI-E23636?style=flat-square&labelColor=0A0A0A"/>
+  <img src="https://img.shields.io/badge/CLOUD%20(AWS)-D32F2F?style=flat-square&labelColor=0A0A0A"/>
+  <img src="https://img.shields.io/badge/KUBERNETES-FFC233?style=flat-square&labelColor=0A0A0A"/>
+  <img src="https://img.shields.io/badge/RAG-38E1FF?style=flat-square&labelColor=0A0A0A"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC233,100:E23636&height=3&section=header"/>
 </p>
 
 <!-- ========================= EXPERIENCE ========================= -->
 <br/>
-<h2 align="center">EXPERIENCE</h2>
+<h2 align="center">// MISSION LOG &mdash; EXPERIENCE</h2>
 
 <p align="center"><b>AI &amp; Cloud Engineer Intern</b> &nbsp;&middot;&nbsp; <b>Yellow.ai</b></p>
 
@@ -65,30 +76,30 @@
 <table align="center">
   <tr>
     <td valign="top" width="50%">
-      &bull; Investigated production incidents via logs, metrics, and observability tooling<br/>
-      &bull; Performed root-cause analysis on customer-facing AI platform issues<br/>
-      &bull; Ran on-call rotations as an <b>SRE Shadow</b><br/>
+      &raquo; Investigated production incidents via logs, metrics, and observability tooling<br/>
+      &raquo; Performed root-cause analysis on customer-facing AI platform issues<br/>
+      &raquo; Ran on-call rotations as an <b>SRE Shadow</b><br/>
     </td>
     <td valign="top" width="50%">
-      &bull; Operated Kubernetes workloads and cloud infrastructure<br/>
-      &bull; Supported deployment pipelines and operational automation<br/>
-      &bull; Drove remediation and operational-excellence initiatives<br/>
+      &raquo; Operated Kubernetes workloads and cloud infrastructure<br/>
+      &raquo; Supported deployment pipelines and operational automation<br/>
+      &raquo; Drove remediation and operational-excellence initiatives<br/>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kubernetes-0F172A?style=flat&logo=kubernetes&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/AWS-0F172A?style=flat&logo=amazonwebservices&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/OpenSearch-0F172A?style=flat&logo=opensearch&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/Grafana-0F172A?style=flat&logo=grafana&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/Prometheus-0F172A?style=flat&logo=prometheus&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/Incident%20Response-0F172A?style=flat"/>
+  <img src="https://img.shields.io/badge/Kubernetes-0A0A0A?style=flat&logo=kubernetes&logoColor=38E1FF"/>
+  <img src="https://img.shields.io/badge/AWS-0A0A0A?style=flat&logo=amazonwebservices&logoColor=FFC233"/>
+  <img src="https://img.shields.io/badge/OpenSearch-0A0A0A?style=flat&logo=opensearch&logoColor=38E1FF"/>
+  <img src="https://img.shields.io/badge/Grafana-0A0A0A?style=flat&logo=grafana&logoColor=E23636"/>
+  <img src="https://img.shields.io/badge/Prometheus-0A0A0A?style=flat&logo=prometheus&logoColor=E23636"/>
+  <img src="https://img.shields.io/badge/Incident%20Response-0A0A0A?style=flat"/>
 </p>
 
 <!-- ========================= EXPERTISE ========================= -->
 <br/>
-<h2 align="center">CORE EXPERTISE</h2>
+<h2 align="center">// SUIT SYSTEMS &mdash; CORE EXPERTISE</h2>
 
 <table align="center">
   <tr>
@@ -131,7 +142,7 @@
 
 <!-- ========================= TECH STACK ========================= -->
 <br/>
-<h2 align="center">TECH STACK</h2>
+<h2 align="center">// ARSENAL &mdash; TECH STACK</h2>
 
 <p align="center"><b>Languages</b></p>
 <p align="center">
@@ -145,18 +156,18 @@
 
 <p align="center"><b>AI / ML</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangGraph-4F46E5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFCA28?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logoColor=FFC233"/>
+  <img src="https://img.shields.io/badge/LangGraph-B71C1C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-E23636?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFC233?style=for-the-badge&logoColor=black"/>
 </p>
 
 <p align="center"><b>Voice &amp; Speech AI</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deepgram-13EF93?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Realtime%20Voice-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Whisper-0A0A0A?style=for-the-badge&logo=openai&logoColor=38E1FF"/>
+  <img src="https://img.shields.io/badge/Deepgram-0A0A0A?style=for-the-badge&logoColor=38E1FF"/>
+  <img src="https://img.shields.io/badge/ElevenLabs-0A0A0A?style=for-the-badge&logoColor=FFC233"/>
+  <img src="https://img.shields.io/badge/Realtime%20Voice-38E1FF?style=for-the-badge&logoColor=black"/>
 </p>
 
 <p align="center"><b>Cloud &amp; DevOps</b></p>
@@ -166,7 +177,7 @@
 
 <!-- ========================= PROJECTS ========================= -->
 <br/>
-<h2 align="center">FEATURED PROJECTS</h2>
+<h2 align="center">// DEPLOYED SUITS &mdash; FEATURED PROJECTS</h2>
 
 <table align="center">
   <tr>
@@ -178,9 +189,9 @@
         turning complex diagnostics into natural-language insight.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Kubernetes-0F172A?style=flat&logo=kubernetes&logoColor=38BDF8"/>
-        <img src="https://img.shields.io/badge/Go-0F172A?style=flat&logo=go&logoColor=38BDF8"/>
-        <img src="https://img.shields.io/badge/LLMs-0F172A?style=flat"/>
+        <img src="https://img.shields.io/badge/Kubernetes-0A0A0A?style=flat&logo=kubernetes&logoColor=38E1FF"/>
+        <img src="https://img.shields.io/badge/Go-0A0A0A?style=flat&logo=go&logoColor=38E1FF"/>
+        <img src="https://img.shields.io/badge/LLMs-0A0A0A?style=flat"/>
       </p>
     </td>
     <td valign="top" width="33%">
@@ -191,9 +202,9 @@
         conversational workflows.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/LangGraph-0F172A?style=flat&logoColor=38BDF8"/>
-        <img src="https://img.shields.io/badge/Vector%20DBs-0F172A?style=flat"/>
-        <img src="https://img.shields.io/badge/RAG-0F172A?style=flat"/>
+        <img src="https://img.shields.io/badge/LangGraph-0A0A0A?style=flat&logoColor=FFC233"/>
+        <img src="https://img.shields.io/badge/Vector%20DBs-0A0A0A?style=flat"/>
+        <img src="https://img.shields.io/badge/RAG-0A0A0A?style=flat"/>
       </p>
     </td>
     <td valign="top" width="33%">
@@ -204,9 +215,9 @@
         automation best practices.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/AWS-0F172A?style=flat&logo=amazonwebservices&logoColor=38BDF8"/>
-        <img src="https://img.shields.io/badge/Docker-0F172A?style=flat&logo=docker&logoColor=38BDF8"/>
-        <img src="https://img.shields.io/badge/CI%2FCD-0F172A?style=flat"/>
+        <img src="https://img.shields.io/badge/AWS-0A0A0A?style=flat&logo=amazonwebservices&logoColor=FFC233"/>
+        <img src="https://img.shields.io/badge/Docker-0A0A0A?style=flat&logo=docker&logoColor=38E1FF"/>
+        <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat"/>
       </p>
     </td>
   </tr>
@@ -214,46 +225,45 @@
 
 <!-- ========================= ANALYTICS ========================= -->
 <br/>
-<h2 align="center">GITHUB ANALYTICS</h2>
+<h2 align="center">// DIAGNOSTICS &mdash; GITHUB ANALYTICS</h2>
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SankarSaiNarayana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=2563EB"/>
-  <img height="165em" src="https://streak-stats.demolab.com/?user=SankarSaiNarayana&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=2563EB&currStreakLabel=38BDF8"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SankarSaiNarayana&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFC233&icon_color=E23636&text_color=c9d1d9"/>
+  <img height="165em" src="https://streak-stats.demolab.com/?user=SankarSaiNarayana&hide_border=true&background=0D1117&ring=E23636&fire=FFC233&currStreakLabel=FFC233&sideNums=FFC233&sideLabels=c9d1d9&dates=8b949e&stroke=E23636"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SankarSaiNarayana&theme=onedark&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SankarSaiNarayana&theme=gruvbox&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SankarSaiNarayana&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=2563EB&point=ffffff"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SankarSaiNarayana&hide_border=true&bg_color=0D1117&color=FFC233&line=E23636&point=FFFFFF&title_color=FFC233"/>
 </p>
 
 <!-- ========================= HIGHLIGHTS ========================= -->
 <br/>
-<h2 align="center">HIGHLIGHTS</h2>
+<h2 align="center">// COMMENDATIONS &mdash; HIGHLIGHTS</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Certified%20Kubernetes%20Administrator%20(CKA)-1E3A8A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Real--time%20Voice%20Pipelines%20(STT%20%2B%20TTS)-2563EB?style=for-the-badge"/><br/>
-  <img src="https://img.shields.io/badge/Scalable%20AI%20%2B%20Cloud%20Systems-1D4ED8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Advanced%20LLM%20%26%20RAG%20Architectures-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Certified%20Kubernetes%20Administrator%20(CKA)-B71C1C?style=for-the-badge&labelColor=0A0A0A"/>
+  <img src="https://img.shields.io/badge/Real--time%20Voice%20Pipelines%20(STT%20%2B%20TTS)-E23636?style=for-the-badge&labelColor=0A0A0A"/><br/>
+  <img src="https://img.shields.io/badge/Scalable%20AI%20%2B%20Cloud%20Systems-D32F2F?style=for-the-badge&labelColor=0A0A0A"/>
+  <img src="https://img.shields.io/badge/Advanced%20LLM%20%2B%20RAG%20Architectures-FFC233?style=for-the-badge&labelColor=0A0A0A"/>
 </p>
 
 <!-- ========================= VISION ========================= -->
 <br/>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:38BDF8&height=3&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E23636,100:FFC233&height=3&section=header"/>
 </p>
 
 <h3 align="center"><i>"Building reliable AI infrastructure that bridges intelligent<br/>systems with scalable cloud-native engineering."</i></h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:1E3A8A&height=3&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC233,100:E23636&height=3&section=header"/>
 </p>
 
 <!-- ========================= FOOTER ========================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:67E8F9,25:38BDF8,50:2563EB,75:1E3A8A,100:0F172A&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC233,30:E23636,60:B71C1C,80:7F0000,100:0A0A0A&height=140&section=footer"/>
 </p>
