@@ -218,7 +218,7 @@
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SankarSaiNarayana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=2563EB"/>
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=SankarSaiNarayana&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=2563EB&currStreakLabel=38BDF8"/>
+  <img height="165em" src="https://streak-stats.demolab.com/?user=SankarSaiNarayana&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=2563EB&currStreakLabel=38BDF8"/>
 </p>
 
 <p align="center">
