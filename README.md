@@ -1,6 +1,6 @@
 <!-- ============================ HERO ============================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:1E3A8A,50:2563EB,75:38BDF8,100:67E8F9&height=280&section=header&text=SANKAR%20SAI%20NARAYANA&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=AI%20INFRASTRUCTURE%20%E2%80%A2%20CLOUD%20NATIVE%20%E2%80%A2%20LLM%20%26%20VOICE%20SYSTEMS&descSize=17&descAlignY=60&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:1E3A8A,50:2563EB,75:38BDF8,100:67E8F9&height=280&section=header&text=SANKAR%20SAI%20NARAYANA&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=AI%20INFRASTRUCTURE%20%E2%80%A2%20CLOUD%20NATIVE%20%E2%80%A2%20LLM%20%2B%20VOICE%20SYSTEMS&descSize=17&descAlignY=60&animation=fadeIn"/>
 </p>
 
 <p align="center">
